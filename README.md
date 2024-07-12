@@ -1,6 +1,6 @@
 Hey y'all 👋!
 
-I'm Alfredo! I'm a Software Engineer at SGATS in Casablanca, Morocco. Born and raised in Luanda, Angola I moved up to Rabat, Morocco to study Computer Science at Hassan II University, after that I joined gemography (formerly united remote) as a Software & data Engineer. I worked on FullStack development <<Node| React| Serverless>>, Business Process Automation <<Integroat| AWS Lambda| TagUI| Refinery>>, data engineer <<Python| Apache Spark| Mongo>>. After UR I joined Zango Technologies to work on PropTech product. Currently I'm working as a Financial Markets Research Engineer for corporate & investiment bank, building pre trade and post trade risk calculators using <<Java| C#| Python| Node| MicroServices| ReactJS>>.
+I'm Alfredo! I'm a Software Engineer. Currently I'm working as a Financial Markets Research Engineer for corporate & investiment bank, building pre trade and post trade risk calculators using <<Java| C#| Python| Node| MicroServices| ReactJS>>.
 
 🔭 I’m currently working on many things ...
 
